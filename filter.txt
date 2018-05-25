@@ -1050,6 +1050,7 @@ zoomtech.ir###text-3
 ||yeknet.ir/sites/default/files/js/
 ||yektanet.com/assets/yektanet-branding/index.html
 ||yektanet.com/media/iframes/
+||yekpop.com
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/
 ||zoomtech.ir/wp-content/uploads/*.gif$image
