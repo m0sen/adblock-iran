@@ -1132,3 +1132,4 @@ zoomtech.ir###text-3
 ||zarpop.com^$script
 ||zoomit.ir/*.gif
 ||zoomtech.ir/wp-content/uploads/*.gif
+||api.sabavision.com
